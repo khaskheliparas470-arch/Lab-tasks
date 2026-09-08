@@ -1,0 +1,5 @@
+// Write a python program that takes the useer's name as input and then prints as a greeting messege like "hello Ali"
+
+code;
+     name =input(str("Enter a name :"))
+       print("Helllo ",name)
