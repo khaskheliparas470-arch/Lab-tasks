@@ -1,3 +1,9 @@
 //write a program that takes hours worked and hourly rate as input from the user , then calculate and display the groos pay. 
 
 code;
+
+
+hours= float(input("Enter hours worked :"))
+hours_rate= float(input("Enter hours rate :"))
+Grosspay=hours*hours_rate
+print("Grosspay:",Grosspay)
