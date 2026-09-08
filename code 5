@@ -1,0 +1,21 @@
+// type conversitions
+
+age = 20
+item = 5
+
+print("age :", age)
+print("items :", item)
+
+age = float(age)
+item = float(item)
+
+print("age :", age)
+print("items :", item)
+
+simply there is converion of values from int( whole numbers) to float(decimal numbers 
+
+
+age = 20 → int 
+item = 5 → int
+float(age) → converts 20 into 20.0
+float(item) → converts 5 into 5.0
