@@ -1,0 +1,9 @@
+// write a python program that takes two numbere input and calculate the furst no raised to the power of second number. 
+
+
+code;
+
+number1= float(input("Enter 1st no:"))
+number2 =  float (input("Enter 2nd no:"))
+exponention= (number1**number2)
+print("Result is :",exponention)
